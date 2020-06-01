@@ -18,14 +18,14 @@ echo $green
 cat asw.txt
 sleep 5
 echo ""
-toilet -f big -F gay Yadi F.
+toilet -f big -F gay Rizky Maulana s.
 echo $green"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
-echo $white"Author : Yadi Fernando"
-echo $green"Kontak Me : 085706249638"
-echo $purple"Instagram : @yadi_fernando123"
-echo $blue"Facebook : Yadi Fernando"
+echo $white"Author : Rizky Maulana S"
+echo $green"Fb Me : Facebook.com/C3O.REVOLITION.ID"
+echo $purple"Instagram : @king-ky6"
+echo $blue"Facebook : Rizky Maulana Sidik XD"
 echo $yellow"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
-echo $red"SUBSCRIBE :" $white"Official Yadi Fernando"
+echo $red"SUBSCRIBE :" $white"Official Rizky Maulana S"
 echo $green"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
 echo $yellow"Thanks For : Indonesia Security Lite"
 echo $green"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
@@ -438,14 +438,14 @@ echo $red" 199.> Install InstaHack buat Hack Instagram "
 echo "<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
 echo $cyan "200.> Install Google-Dork Buat dorking Di termux"
 echo "<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
-echo $green "201.> Install DarkFb v1.6 by Yadi buat hack fb"
+echo $green "201.> Install DarkFb v1.6 by Rizky Maulana S"
 echo "<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
 echo $white "202.> Coming Soon...."
 echo $blue"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
 echo $yellow "0.> GW NGGA MINAT, KELUAR AJA!!!"
 echo $red"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
 echo "\033[32;1m"
-read -p "root@T00Ls-YadiFernando~#" bro
+read -p "root@T00Ls-RizkyMaulanaS~#" bro
 
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
@@ -3331,12 +3331,12 @@ sleep 1
 pkg update && pkg upgrade
 pkg install python2
 pkg install git
-git clone https://github.com/YadiFernando/DARKFB
+git clone https://github.com/rizkyxd/ikigntng
 pip2 install mechanize
 pip2 install requests
-mv DARKFB $HOME
-cd $HOME/DARKFB
-python2 DARKFB.py
+mv ikigntng $HOME
+cd $HOME/ikigntng
+python2 dkfb
 fi
 
 if [ $bro = 202 ] || [ $bro = 202 ]
